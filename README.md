@@ -7,7 +7,7 @@ Sport is one of the events which symbolizes the unity of countries with the part
 
 1. Day
 
-Data cleanin g under slowe and peaceful db conditional methods
+Data cleanin g under slowe and peaceful 0 db conditional methods
 
 2. Day
 
